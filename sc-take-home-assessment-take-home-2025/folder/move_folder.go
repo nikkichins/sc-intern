@@ -54,6 +54,7 @@ func (f *driver) MoveFolder(name string, dst string) ([]Folder, error) {
 	newPath := dstFolder.Paths + "." + srcFolder.Name
 	srcFolder.Paths = newPath
 
+	// Changing children paths
 	for i := range folders {
 		if strings.HasPrefix(folders[i].Paths, oldPath) {
 			newChildPath := strings.Replace(folders[i].Paths, oldPath, newPath, 1)
