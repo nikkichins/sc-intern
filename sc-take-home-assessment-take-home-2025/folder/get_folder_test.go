@@ -2,7 +2,6 @@ package folder_test
 
 import (
 	"errors"
-	"fmt"
 	"reflect"
 	"testing"
 
@@ -61,7 +60,6 @@ func Test_folder_GetChildFolders(t *testing.T) {
 			if !reflect.DeepEqual(get, tt.want) {
 				t.Errorf("got %s, want %s", get, tt.want)
 			}
-			fmt.Println(get)
 		})
 	}
 }

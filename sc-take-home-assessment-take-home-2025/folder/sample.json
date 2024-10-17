@@ -1,1382 +1,1202 @@
 [
 	{
-		"name": "creative-scalphunter",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter"
+		"name": "uncommon-dead",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead"
 	},
 	{
-		"name": "clear-arclight",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight"
+		"name": "select-smiling-tiger",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger"
 	},
 	{
-		"name": "topical-micromax",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.topical-micromax"
+		"name": "willing-green-goblin",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.willing-green-goblin"
 	},
 	{
-		"name": "bursting-lionheart",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.topical-micromax.bursting-lionheart"
+		"name": "accepted-kitty",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.willing-green-goblin.accepted-kitty"
 	},
 	{
-		"name": "striking-black-panther",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.topical-micromax.bursting-lionheart.striking-black-panther"
+		"name": "literate-chronomancer",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.willing-green-goblin.accepted-kitty.literate-chronomancer"
 	},
 	{
-		"name": "advanced-professor-monster",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.topical-micromax.bursting-lionheart.advanced-professor-monster"
+		"name": "loyal-iron-monger",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.willing-green-goblin.accepted-kitty.loyal-iron-monger"
 	},
 	{
-		"name": "assuring-red-shift",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.topical-micromax.bursting-lionheart.assuring-red-shift"
+		"name": "still-inertia",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.willing-green-goblin.still-inertia"
 	},
 	{
-		"name": "merry-mega-man",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.topical-micromax.bursting-lionheart.merry-mega-man"
+		"name": "liberal-legion",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.willing-green-goblin.still-inertia.liberal-legion"
 	},
 	{
-		"name": "patient-red-wolf",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.topical-micromax.patient-red-wolf"
+		"name": "primary-whistler",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.primary-whistler"
 	},
 	{
-		"name": "coherent-night-nurse",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.topical-micromax.patient-red-wolf.coherent-night-nurse"
+		"name": "warm-skyrocket",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.primary-whistler.warm-skyrocket"
 	},
 	{
-		"name": "smashing-raphael",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.topical-micromax.patient-red-wolf.smashing-raphael"
+		"name": "clever-living-mummy",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.primary-whistler.warm-skyrocket.clever-living-mummy"
 	},
 	{
-		"name": "gentle-tempest",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.topical-micromax.patient-red-wolf.gentle-tempest"
+		"name": "electric-two-face",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.primary-whistler.warm-skyrocket.electric-two-face"
 	},
 	{
-		"name": "famous-rescue",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.topical-micromax.famous-rescue"
+		"name": "summary-silver-samurai",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.primary-whistler.warm-skyrocket.summary-silver-samurai"
 	},
 	{
-		"name": "crucial-mister-sinister",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.topical-micromax.famous-rescue.crucial-mister-sinister"
+		"name": "driven-starhawk",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.primary-whistler.warm-skyrocket.driven-starhawk"
 	},
 	{
-		"name": "flexible-iron-man",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.topical-micromax.famous-rescue.flexible-iron-man"
+		"name": "glad-star-spangled",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.primary-whistler.glad-star-spangled"
 	},
 	{
-		"name": "prepared-green-goblin",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.prepared-green-goblin"
+		"name": "sought-mimic",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.primary-whistler.glad-star-spangled.sought-mimic"
 	},
 	{
-		"name": "live-thunder",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.prepared-green-goblin.live-thunder"
+		"name": "humble-martian",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.select-smiling-tiger.primary-whistler.glad-star-spangled.humble-martian"
 	},
 	{
-		"name": "bold-atomic",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.prepared-green-goblin.live-thunder.bold-atomic"
+		"name": "perfect-nitro",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.perfect-nitro"
 	},
 	{
-		"name": "rich-iron-lad",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.prepared-green-goblin.live-thunder.rich-iron-lad"
+		"name": "generous-armory",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.perfect-nitro.generous-armory"
 	},
 	{
-		"name": "flowing-starhawk",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.prepared-green-goblin.flowing-starhawk"
+		"name": "bright-magik",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.perfect-nitro.generous-armory.bright-magik"
 	},
 	{
-		"name": "growing-comet",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.prepared-green-goblin.flowing-starhawk.growing-comet"
+		"name": "quick-grey-gargoyle",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.perfect-nitro.generous-armory.bright-magik.quick-grey-gargoyle"
 	},
 	{
-		"name": "meet-warbird",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.prepared-green-goblin.flowing-starhawk.meet-warbird"
+		"name": "related-nextwave",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.perfect-nitro.generous-armory.bright-magik.related-nextwave"
 	},
 	{
-		"name": "central-the-anarchist",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.central-the-anarchist"
+		"name": "tight-man-thing",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.perfect-nitro.tight-man-thing"
 	},
 	{
-		"name": "proud-timeslip",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.central-the-anarchist.proud-timeslip"
+		"name": "solid-kronos",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.perfect-nitro.tight-man-thing.solid-kronos"
 	},
 	{
-		"name": "equal-wonder-woman",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.central-the-anarchist.proud-timeslip.equal-wonder-woman"
+		"name": "valued-iron-man",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.perfect-nitro.tight-man-thing.solid-kronos.valued-iron-man"
 	},
 	{
-		"name": "modern-arsenic",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.central-the-anarchist.modern-arsenic"
+		"name": "open-deathbird",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.perfect-nitro.tight-man-thing.solid-kronos.open-deathbird"
 	},
 	{
-		"name": "diverse-outlaw-kid",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.central-the-anarchist.modern-arsenic.diverse-outlaw-kid"
+		"name": "faithful-ultrawoman",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.perfect-nitro.tight-man-thing.solid-kronos.faithful-ultrawoman"
 	},
 	{
-		"name": "loving-colossus",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.central-the-anarchist.modern-arsenic.loving-colossus"
+		"name": "bold-callisto",
+		"org_id": "335b32d4-5d58-4923-9f8d-f9c4f63040b9",
+		"paths": "uncommon-dead.perfect-nitro.tight-man-thing.solid-kronos.bold-callisto"
 	},
 	{
-		"name": "helping-random",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.central-the-anarchist.helping-random"
-	},
-	{
-		"name": "star-fixer",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.central-the-anarchist.helping-random.star-fixer"
-	},
-	{
-		"name": "concise-cable",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.central-the-anarchist.helping-random.concise-cable"
-	},
-	{
-		"name": "many-air-walker",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.central-the-anarchist.helping-random.many-air-walker"
-	},
-	{
-		"name": "warm-the-stranger",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.central-the-anarchist.helping-random.warm-the-stranger"
-	},
-	{
-		"name": "concise-cable",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable"
-	},
-	{
-		"name": "proven-catseye",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.proven-catseye"
-	},
-	{
-		"name": "pro-polaris",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.proven-catseye.pro-polaris"
-	},
-	{
-		"name": "fresh-blastaar",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.proven-catseye.fresh-blastaar"
-	},
-	{
-		"name": "suited-contessa",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.proven-catseye.suited-contessa"
-	},
-	{
-		"name": "finer-firebrand",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.proven-catseye.finer-firebrand"
-	},
-	{
-		"name": "chief-shadowcat",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.chief-shadowcat"
-	},
-	{
-		"name": "rested-agent",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.chief-shadowcat.rested-agent"
-	},
-	{
-		"name": "wired-buttercup",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.chief-shadowcat.wired-buttercup"
-	},
-	{
-		"name": "game-aztec",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.game-aztec"
-	},
-	{
-		"name": "fair-elektra",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.game-aztec.fair-elektra"
-	},
-	{
-		"name": "fast-gateway",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.game-aztec.fast-gateway"
-	},
-	{
-		"name": "calm-beef",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.game-aztec.calm-beef"
-	},
-	{
-		"name": "active-stunner",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.game-aztec.active-stunner"
-	},
-	{
-		"name": "steady-colt",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.steady-colt"
-	},
-	{
-		"name": "probable-sphinx",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.steady-colt.probable-sphinx"
-	},
-	{
-		"name": "central-whistler",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.clear-arclight.concise-cable.steady-colt.central-whistler"
-	},
-	{
-		"name": "close-layla-miller",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller"
-	},
-	{
-		"name": "evident-silver-centurion",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.evident-silver-centurion"
-	},
-	{
-		"name": "sacred-lime",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.evident-silver-centurion.sacred-lime"
-	},
-	{
-		"name": "top-radioactive-man",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.evident-silver-centurion.sacred-lime.top-radioactive-man"
-	},
-	{
-		"name": "eager-thunder",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.evident-silver-centurion.sacred-lime.eager-thunder"
-	},
-	{
-		"name": "choice-tsunami",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.evident-silver-centurion.sacred-lime.choice-tsunami"
-	},
-	{
-		"name": "elegant-silver",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.evident-silver-centurion.sacred-lime.elegant-silver"
-	},
-	{
-		"name": "verified-talkback",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.evident-silver-centurion.verified-talkback"
-	},
-	{
-		"name": "faithful-deathcry",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.evident-silver-centurion.verified-talkback.faithful-deathcry"
-	},
-	{
-		"name": "humorous-black-widow",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.evident-silver-centurion.verified-talkback.humorous-black-widow"
-	},
-	{
-		"name": "real-mandroid",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.evident-silver-centurion.verified-talkback.real-mandroid"
-	},
-	{
-		"name": "fancy-leatherhead",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.fancy-leatherhead"
-	},
-	{
-		"name": "legible-colleen",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.fancy-leatherhead.legible-colleen"
-	},
-	{
-		"name": "proven-changeling",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.fancy-leatherhead.legible-colleen.proven-changeling"
-	},
-	{
-		"name": "joint-strong-guy",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.fancy-leatherhead.legible-colleen.joint-strong-guy"
+		"name": "massive-deathbird",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird"
 	},
 	{
-		"name": "well-mephisto",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.fancy-leatherhead.legible-colleen.well-mephisto"
+		"name": "splendid-meteorite",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird.splendid-meteorite"
 	},
 	{
-		"name": "touched-witchblade",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.fancy-leatherhead.touched-witchblade"
+		"name": "flowing-shaman",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman"
 	},
 	{
-		"name": "magnetic-bug",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.fancy-leatherhead.touched-witchblade.magnetic-bug"
+		"name": "casual-lightning",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman.casual-lightning"
 	},
 	{
-		"name": "evident-human-torch",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.fancy-leatherhead.touched-witchblade.evident-human-torch"
+		"name": "welcome-living-lightning",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman.casual-lightning.welcome-living-lightning"
 	},
 	{
-		"name": "settling-tag",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.fancy-leatherhead.settling-tag"
+		"name": "sincere-tarot",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman.casual-lightning.sincere-tarot"
 	},
 	{
-		"name": "delicate-bloodscream",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.fancy-leatherhead.settling-tag.delicate-bloodscream"
+		"name": "meet-omega-flight",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman.casual-lightning.meet-omega-flight"
 	},
 	{
-		"name": "artistic-fixer",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.fancy-leatherhead.settling-tag.artistic-fixer"
+		"name": "smart-cardiac",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman.casual-lightning.smart-cardiac"
 	},
 	{
-		"name": "saved-groot",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.fancy-leatherhead.settling-tag.saved-groot"
+		"name": "coherent-multiple-man",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman.coherent-multiple-man"
 	},
 	{
-		"name": "touching-madame-hydra",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.touching-madame-hydra"
+		"name": "holy-quasar",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman.coherent-multiple-man.holy-quasar"
 	},
 	{
-		"name": "star-mimic",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.touching-madame-hydra.star-mimic"
+		"name": "full-vermin",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman.full-vermin"
 	},
 	{
-		"name": "proven-synch",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.touching-madame-hydra.star-mimic.proven-synch"
+		"name": "wealthy-robin-hood",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman.full-vermin.wealthy-robin-hood"
 	},
 	{
-		"name": "saved-nightshade",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.touching-madame-hydra.star-mimic.saved-nightshade"
+		"name": "trusted-starfire",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman.full-vermin.trusted-starfire"
 	},
 	{
-		"name": "daring-captain-flint",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.touching-madame-hydra.star-mimic.daring-captain-flint"
+		"name": "firm-cobweb",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman.firm-cobweb"
 	},
 	{
-		"name": "relaxed-fallen-one",
-		"org_id": "38b9879b-f73b-4b0e-b9d9-4fc4c23643a7",
-		"paths": "creative-scalphunter.close-layla-miller.touching-madame-hydra.star-mimic.relaxed-fallen-one"
+		"name": "welcomed-viper",
+		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman.firm-cobweb.welcomed-viper"
 	},
 	{
-		"name": "noble-vixen",
+		"name": "actual-dragon-man",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen"
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman.firm-cobweb.actual-dragon-man"
 	},
 	{
-		"name": "nearby-secret",
+		"name": "sharp-freefall",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret"
+		"paths": "massive-deathbird.splendid-meteorite.flowing-shaman.firm-cobweb.sharp-freefall"
 	},
 	{
-		"name": "magnetic-sinister-six",
+		"name": "tough-karatecha",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.magnetic-sinister-six"
+		"paths": "massive-deathbird.splendid-meteorite.tough-karatecha"
 	},
 	{
-		"name": "stirred-rainbow",
+		"name": "top-neon",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.magnetic-sinister-six.stirred-rainbow"
+		"paths": "massive-deathbird.splendid-meteorite.tough-karatecha.top-neon"
 	},
 	{
-		"name": "smashing-abyss",
+		"name": "oriented-miracleman",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.magnetic-sinister-six.stirred-rainbow.smashing-abyss"
+		"paths": "massive-deathbird.splendid-meteorite.tough-karatecha.top-neon.oriented-miracleman"
 	},
 	{
-		"name": "strong-spoiler",
+		"name": "active-blazing-skull",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.magnetic-sinister-six.stirred-rainbow.strong-spoiler"
+		"paths": "massive-deathbird.splendid-meteorite.tough-karatecha.top-neon.active-blazing-skull"
 	},
 	{
-		"name": "warm-thunderball",
+		"name": "game-nightstar",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.magnetic-sinister-six.stirred-rainbow.warm-thunderball"
+		"paths": "massive-deathbird.splendid-meteorite.tough-karatecha.top-neon.game-nightstar"
 	},
 	{
-		"name": "healthy-hiroim",
+		"name": "wise-lady",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.magnetic-sinister-six.healthy-hiroim"
+		"paths": "massive-deathbird.splendid-meteorite.tough-karatecha.wise-lady"
 	},
 	{
-		"name": "outgoing-network",
+		"name": "concrete-doll",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.magnetic-sinister-six.healthy-hiroim.outgoing-network"
+		"paths": "massive-deathbird.splendid-meteorite.tough-karatecha.wise-lady.concrete-doll"
 	},
 	{
-		"name": "social-wasp",
+		"name": "quality-darkhawk",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.magnetic-sinister-six.healthy-hiroim.social-wasp"
+		"paths": "massive-deathbird.splendid-meteorite.tough-karatecha.wise-lady.quality-darkhawk"
 	},
 	{
-		"name": "hip-stingray",
+		"name": "maximum-atomic",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray"
+		"paths": "massive-deathbird.splendid-meteorite.tough-karatecha.wise-lady.maximum-atomic"
 	},
 	{
-		"name": "driven-stripperella",
+		"name": "hardy-bluestreak",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.driven-stripperella"
+		"paths": "massive-deathbird.splendid-meteorite.tough-karatecha.wise-lady.hardy-bluestreak"
 	},
 	{
-		"name": "endless-master-mold",
+		"name": "central-howard",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.driven-stripperella.endless-master-mold"
+		"paths": "massive-deathbird.splendid-meteorite.central-howard"
 	},
 	{
-		"name": "valid-mega-man",
+		"name": "vast-manitou",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.driven-stripperella.valid-mega-man"
+		"paths": "massive-deathbird.splendid-meteorite.central-howard.vast-manitou"
 	},
 	{
-		"name": "stirred-judomaster",
+		"name": "learning-burnout",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.driven-stripperella.stirred-judomaster"
+		"paths": "massive-deathbird.splendid-meteorite.central-howard.vast-manitou.learning-burnout"
 	},
 	{
-		"name": "complete-lockjaw",
+		"name": "topical-maginty",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.driven-stripperella.complete-lockjaw"
+		"paths": "massive-deathbird.splendid-meteorite.central-howard.topical-maginty"
 	},
 	{
-		"name": "valued-captain",
+		"name": "relieved-menace",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.valued-captain"
+		"paths": "massive-deathbird.splendid-meteorite.central-howard.topical-maginty.relieved-menace"
 	},
 	{
-		"name": "frank-thunder",
+		"name": "positive-void",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.valued-captain.frank-thunder"
+		"paths": "massive-deathbird.splendid-meteorite.central-howard.topical-maginty.positive-void"
 	},
 	{
-		"name": "polished-bella",
+		"name": "moved-onslaught",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.valued-captain.polished-bella"
+		"paths": "massive-deathbird.splendid-meteorite.central-howard.topical-maginty.moved-onslaught"
 	},
 	{
-		"name": "proper-grim-reaper",
+		"name": "known-the-hunter",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.valued-captain.proper-grim-reaper"
+		"paths": "massive-deathbird.splendid-meteorite.central-howard.topical-maginty.known-the-hunter"
 	},
 	{
-		"name": "adapted-timeslip",
+		"name": "sweet-armadillo",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.adapted-timeslip"
+		"paths": "massive-deathbird.splendid-meteorite.central-howard.sweet-armadillo"
 	},
 	{
-		"name": "learning-unicorn",
+		"name": "polished-dumb",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.adapted-timeslip.learning-unicorn"
+		"paths": "massive-deathbird.splendid-meteorite.central-howard.sweet-armadillo.polished-dumb"
 	},
 	{
-		"name": "pretty-firefly",
+		"name": "advanced-batgirl",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.adapted-timeslip.pretty-firefly"
+		"paths": "massive-deathbird.splendid-meteorite.central-howard.advanced-batgirl"
 	},
 	{
-		"name": "innocent-eradicator",
+		"name": "causal-shooting-star",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.adapted-timeslip.innocent-eradicator"
+		"paths": "massive-deathbird.splendid-meteorite.central-howard.advanced-batgirl.causal-shooting-star"
 	},
 	{
-		"name": "faithful-warstar",
+		"name": "primary-blade",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.adapted-timeslip.faithful-warstar"
+		"paths": "massive-deathbird.splendid-meteorite.primary-blade"
 	},
 	{
-		"name": "thorough-miracleman",
+		"name": "causal-eternity",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.thorough-miracleman"
+		"paths": "massive-deathbird.splendid-meteorite.primary-blade.causal-eternity"
 	},
 	{
-		"name": "outgoing-cobweb",
+		"name": "first-copycat",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.thorough-miracleman.outgoing-cobweb"
+		"paths": "massive-deathbird.splendid-meteorite.primary-blade.causal-eternity.first-copycat"
 	},
 	{
-		"name": "novel-squirrel",
+		"name": "knowing-violations",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.thorough-miracleman.novel-squirrel"
+		"paths": "massive-deathbird.splendid-meteorite.primary-blade.causal-eternity.knowing-violations"
 	},
 	{
-		"name": "awake-cable",
+		"name": "renewing-unknown-soldier",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.thorough-miracleman.awake-cable"
+		"paths": "massive-deathbird.splendid-meteorite.primary-blade.causal-eternity.renewing-unknown-soldier"
 	},
 	{
-		"name": "aware-smiling-tiger",
+		"name": "known-blue-marvel",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.nearby-secret.hip-stingray.thorough-miracleman.aware-smiling-tiger"
+		"paths": "massive-deathbird.splendid-meteorite.primary-blade.causal-eternity.known-blue-marvel"
 	},
 	{
-		"name": "fast-watchmen",
+		"name": "humorous-lester",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen"
+		"paths": "massive-deathbird.humorous-lester"
 	},
 	{
-		"name": "full-weapon-x",
+		"name": "steady-poison",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.full-weapon-x"
+		"paths": "massive-deathbird.humorous-lester.steady-poison"
 	},
 	{
-		"name": "honest-greymalkin",
+		"name": "expert-lockheed",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.full-weapon-x.honest-greymalkin"
+		"paths": "massive-deathbird.humorous-lester.steady-poison.expert-lockheed"
 	},
 	{
-		"name": "settled-copperhead",
+		"name": "allowing-sub-mariner",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.full-weapon-x.honest-greymalkin.settled-copperhead"
+		"paths": "massive-deathbird.humorous-lester.steady-poison.expert-lockheed.allowing-sub-mariner"
 	},
 	{
-		"name": "flexible-the-hunter",
+		"name": "unique-wonder-man",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.full-weapon-x.honest-greymalkin.flexible-the-hunter"
+		"paths": "massive-deathbird.humorous-lester.steady-poison.expert-lockheed.unique-wonder-man"
 	},
 	{
-		"name": "dashing-mirage",
+		"name": "pleased-tombstone",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.full-weapon-x.honest-greymalkin.dashing-mirage"
+		"paths": "pleased-tombstone"
 	},
 	{
-		"name": "probable-oracle",
+		"name": "maximum-dazzler",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.full-weapon-x.probable-oracle"
+		"paths": "pleased-tombstone.maximum-dazzler"
 	},
 	{
-		"name": "amazing-bubbles",
+		"name": "novel-wraith",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.full-weapon-x.probable-oracle.amazing-bubbles"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith"
 	},
 	{
-		"name": "prompt-flaberella",
+		"name": "bold-cerebro",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.full-weapon-x.probable-oracle.prompt-flaberella"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.bold-cerebro"
 	},
 	{
-		"name": "strong-elongated",
+		"name": "delicate-black-bird",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.full-weapon-x.probable-oracle.strong-elongated"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.bold-cerebro.delicate-black-bird"
 	},
 	{
-		"name": "trusty-violator",
+		"name": "probable-blizzard",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.full-weapon-x.probable-oracle.trusty-violator"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.bold-cerebro.probable-blizzard"
 	},
 	{
-		"name": "deciding-famine",
+		"name": "relative-ultrawoman",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.deciding-famine"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.bold-cerebro.relative-ultrawoman"
 	},
 	{
-		"name": "mint-dream",
+		"name": "regular-metamorpho",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.deciding-famine.mint-dream"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.bold-cerebro.regular-metamorpho"
 	},
 	{
-		"name": "giving-stilt-man",
+		"name": "absolute-contessa",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.deciding-famine.mint-dream.giving-stilt-man"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.absolute-contessa"
 	},
 	{
-		"name": "mutual-cyclone",
+		"name": "wondrous-sprite",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.deciding-famine.mint-dream.mutual-cyclone"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.absolute-contessa.wondrous-sprite"
 	},
 	{
-		"name": "modern-silver-sable",
+		"name": "frank-nova",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.deciding-famine.mint-dream.modern-silver-sable"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.absolute-contessa.frank-nova"
 	},
 	{
-		"name": "main-man-wolf",
+		"name": "close-hercules",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.deciding-famine.mint-dream.main-man-wolf"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.close-hercules"
 	},
 	{
-		"name": "rational-gauntlet",
+		"name": "known-flash",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.deciding-famine.rational-gauntlet"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.close-hercules.known-flash"
 	},
 	{
-		"name": "evolved-bastion",
+		"name": "equal-cloak",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.deciding-famine.rational-gauntlet.evolved-bastion"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.close-hercules.equal-cloak"
 	},
 	{
-		"name": "growing-menace",
+		"name": "relevant-tecna",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.growing-menace"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.close-hercules.relevant-tecna"
 	},
 	{
-		"name": "super-cobweb",
+		"name": "feasible-lady-bullseye",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.growing-menace.super-cobweb"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.close-hercules.feasible-lady-bullseye"
 	},
 	{
-		"name": "perfect-vanisher",
+		"name": "careful-colt",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.growing-menace.super-cobweb.perfect-vanisher"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.careful-colt"
 	},
 	{
-		"name": "settling-hobgoblin",
+		"name": "learning-vulcan",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.settling-hobgoblin"
+		"paths": "pleased-tombstone.maximum-dazzler.novel-wraith.careful-colt.learning-vulcan"
 	},
 	{
-		"name": "super-stunner",
+		"name": "actual-master-mold",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.settling-hobgoblin.super-stunner"
+		"paths": "pleased-tombstone.maximum-dazzler.actual-master-mold"
 	},
 	{
-		"name": "fine-haven",
+		"name": "true-the-call",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.settling-hobgoblin.super-stunner.fine-haven"
+		"paths": "pleased-tombstone.maximum-dazzler.actual-master-mold.true-the-call"
 	},
 	{
-		"name": "huge-witchblade",
+		"name": "hot-starwoman",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.settling-hobgoblin.huge-witchblade"
+		"paths": "pleased-tombstone.maximum-dazzler.actual-master-mold.true-the-call.hot-starwoman"
 	},
 	{
-		"name": "fine-shredder",
+		"name": "humble-ganymede",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.settling-hobgoblin.huge-witchblade.fine-shredder"
+		"paths": "pleased-tombstone.maximum-dazzler.actual-master-mold.true-the-call.humble-ganymede"
 	},
 	{
-		"name": "noted-lady-bullseye",
+		"name": "stirring-marrow",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.settling-hobgoblin.noted-lady-bullseye"
+		"paths": "pleased-tombstone.maximum-dazzler.actual-master-mold.true-the-call.stirring-marrow"
 	},
 	{
-		"name": "welcomed-crazy",
+		"name": "verified-nemesis",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.settling-hobgoblin.noted-lady-bullseye.welcomed-crazy"
+		"paths": "pleased-tombstone.maximum-dazzler.actual-master-mold.verified-nemesis"
 	},
 	{
-		"name": "nearby-beetle",
+		"name": "relaxed-belphegor",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "noble-vixen.fast-watchmen.settling-hobgoblin.noted-lady-bullseye.nearby-beetle"
+		"paths": "pleased-tombstone.maximum-dazzler.actual-master-mold.verified-nemesis.relaxed-belphegor"
 	},
 	{
-		"name": "stunning-horridus",
+		"name": "creative-gravity",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus"
+		"paths": "pleased-tombstone.maximum-dazzler.actual-master-mold.verified-nemesis.creative-gravity"
 	},
 	{
-		"name": "pure-blastaar",
+		"name": "artistic-flash",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar"
+		"paths": "pleased-tombstone.maximum-dazzler.actual-master-mold.verified-nemesis.artistic-flash"
 	},
 	{
-		"name": "model-stargirl",
+		"name": "quick-yellow-claw",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.model-stargirl"
+		"paths": "pleased-tombstone.maximum-dazzler.actual-master-mold.quick-yellow-claw"
 	},
 	{
-		"name": "alive-bloodberry",
+		"name": "vast-galvatron",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.model-stargirl.alive-bloodberry"
+		"paths": "pleased-tombstone.maximum-dazzler.actual-master-mold.quick-yellow-claw.vast-galvatron"
 	},
 	{
-		"name": "free-contessa",
+		"name": "precious-dollar",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.model-stargirl.alive-bloodberry.free-contessa"
+		"paths": "pleased-tombstone.maximum-dazzler.actual-master-mold.quick-yellow-claw.precious-dollar"
 	},
 	{
-		"name": "loved-orion",
+		"name": "promoted-pestilence",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.model-stargirl.alive-bloodberry.loved-orion"
+		"paths": "pleased-tombstone.maximum-dazzler.promoted-pestilence"
 	},
 	{
-		"name": "flowing-radioactive-man",
+		"name": "robust-fantomah",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.model-stargirl.alive-bloodberry.flowing-radioactive-man"
+		"paths": "pleased-tombstone.maximum-dazzler.promoted-pestilence.robust-fantomah"
 	},
 	{
-		"name": "capable-speedball",
+		"name": "alive-chronomancer",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.model-stargirl.capable-speedball"
+		"paths": "pleased-tombstone.maximum-dazzler.promoted-pestilence.robust-fantomah.alive-chronomancer"
 	},
 	{
-		"name": "musical-rainbow",
+		"name": "healthy-witchblade",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.model-stargirl.capable-speedball.musical-rainbow"
+		"paths": "pleased-tombstone.maximum-dazzler.promoted-pestilence.robust-fantomah.healthy-witchblade"
 	},
 	{
-		"name": "free-cerebro",
+		"name": "delicate-rogue",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.model-stargirl.capable-speedball.free-cerebro"
+		"paths": "pleased-tombstone.maximum-dazzler.promoted-pestilence.delicate-rogue"
 	},
 	{
-		"name": "outgoing-wiccan",
+		"name": "hip-risque",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.model-stargirl.capable-speedball.outgoing-wiccan"
+		"paths": "pleased-tombstone.maximum-dazzler.promoted-pestilence.delicate-rogue.hip-risque"
 	},
 	{
-		"name": "ideal-black",
+		"name": "civil-rampage",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.ideal-black"
+		"paths": "pleased-tombstone.maximum-dazzler.promoted-pestilence.delicate-rogue.civil-rampage"
 	},
 	{
-		"name": "active-shockwave",
+		"name": "organic-blastaar",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.ideal-black.active-shockwave"
+		"paths": "pleased-tombstone.maximum-dazzler.promoted-pestilence.delicate-rogue.organic-blastaar"
 	},
 	{
-		"name": "unbiased-jigsaw",
+		"name": "harmless-amazi-girl",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.ideal-black.active-shockwave.unbiased-jigsaw"
+		"paths": "pleased-tombstone.maximum-dazzler.promoted-pestilence.delicate-rogue.harmless-amazi-girl"
 	},
 	{
-		"name": "knowing-wild",
+		"name": "intense-harpoon",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.ideal-black.active-shockwave.knowing-wild"
+		"paths": "pleased-tombstone.maximum-dazzler.promoted-pestilence.intense-harpoon"
 	},
 	{
-		"name": "endless-azrael",
+		"name": "concise-lilandra",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.ideal-black.active-shockwave.endless-azrael"
+		"paths": "pleased-tombstone.maximum-dazzler.promoted-pestilence.intense-harpoon.concise-lilandra"
 	},
 	{
-		"name": "crucial-the-shadow",
+		"name": "fluent-blonde",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow"
+		"paths": "pleased-tombstone.fluent-blonde"
 	},
 	{
-		"name": "superb-ezekiel",
+		"name": "viable-titania",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow.superb-ezekiel"
+		"paths": "pleased-tombstone.fluent-blonde.viable-titania"
 	},
 	{
-		"name": "enabled-cosmo",
+		"name": "perfect-raphael",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow.superb-ezekiel.enabled-cosmo"
+		"paths": "pleased-tombstone.fluent-blonde.viable-titania.perfect-raphael"
 	},
 	{
-		"name": "suitable-hellcat",
+		"name": "modest-voodoo",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow.suitable-hellcat"
+		"paths": "pleased-tombstone.fluent-blonde.viable-titania.perfect-raphael.modest-voodoo"
 	},
 	{
-		"name": "secure-deadpool",
+		"name": "perfect-dead",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow.suitable-hellcat.secure-deadpool"
+		"paths": "pleased-tombstone.fluent-blonde.perfect-dead"
 	},
 	{
-		"name": "stirred-demogoblin",
+		"name": "chief-mimic",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow.suitable-hellcat.stirred-demogoblin"
+		"paths": "pleased-tombstone.fluent-blonde.perfect-dead.chief-mimic"
 	},
 	{
-		"name": "knowing-spot",
+		"name": "strong-barb",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow.suitable-hellcat.knowing-spot"
+		"paths": "pleased-tombstone.fluent-blonde.perfect-dead.chief-mimic.strong-barb"
 	},
 	{
-		"name": "refined-titania",
+		"name": "artistic-lord-hawal",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow.suitable-hellcat.refined-titania"
+		"paths": "pleased-tombstone.fluent-blonde.perfect-dead.chief-mimic.artistic-lord-hawal"
 	},
 	{
-		"name": "renewing-maestro",
+		"name": "supreme-shocker",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow.renewing-maestro"
+		"paths": "pleased-tombstone.fluent-blonde.perfect-dead.chief-mimic.supreme-shocker"
 	},
 	{
-		"name": "decent-sugar-man",
+		"name": "lasting-horridus",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow.renewing-maestro.decent-sugar-man"
+		"paths": "pleased-tombstone.lasting-horridus"
 	},
 	{
-		"name": "emerging-nova",
+		"name": "correct-spoiler",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow.renewing-maestro.emerging-nova"
+		"paths": "pleased-tombstone.lasting-horridus.correct-spoiler"
 	},
 	{
-		"name": "deep-hooded",
+		"name": "ultimate-savant",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow.renewing-maestro.deep-hooded"
+		"paths": "pleased-tombstone.lasting-horridus.correct-spoiler.ultimate-savant"
 	},
 	{
-		"name": "main-groot",
+		"name": "correct-electra",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow.renewing-maestro.main-groot"
+		"paths": "pleased-tombstone.lasting-horridus.correct-spoiler.ultimate-savant.correct-electra"
 	},
 	{
-		"name": "novel-slapstick",
+		"name": "unbiased-deadpool",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow.novel-slapstick"
+		"paths": "pleased-tombstone.lasting-horridus.correct-spoiler.unbiased-deadpool"
 	},
 	{
-		"name": "literate-neon",
+		"name": "driving-leopardon",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.crucial-the-shadow.novel-slapstick.literate-neon"
+		"paths": "pleased-tombstone.lasting-horridus.correct-spoiler.unbiased-deadpool.driving-leopardon"
 	},
 	{
-		"name": "sensible-stardust",
+		"name": "adapted-songbird",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.sensible-stardust"
+		"paths": "pleased-tombstone.lasting-horridus.correct-spoiler.unbiased-deadpool.adapted-songbird"
 	},
 	{
-		"name": "quality-devastator",
+		"name": "welcome-kid-colt",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.sensible-stardust.quality-devastator"
+		"paths": "pleased-tombstone.lasting-horridus.correct-spoiler.unbiased-deadpool.welcome-kid-colt"
 	},
 	{
-		"name": "novel-blitzkrieg",
+		"name": "cool-tomorrow-man",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.sensible-stardust.quality-devastator.novel-blitzkrieg"
+		"paths": "pleased-tombstone.lasting-horridus.correct-spoiler.unbiased-deadpool.cool-tomorrow-man"
 	},
 	{
-		"name": "close-vengeance",
+		"name": "faithful-looker",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.sensible-stardust.quality-devastator.close-vengeance"
+		"paths": "pleased-tombstone.lasting-horridus.correct-spoiler.faithful-looker"
 	},
 	{
-		"name": "first-misty",
+		"name": "crucial-titaness",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.sensible-stardust.quality-devastator.first-misty"
+		"paths": "pleased-tombstone.lasting-horridus.correct-spoiler.faithful-looker.crucial-titaness"
 	},
 	{
-		"name": "sincere-serpentor",
+		"name": "dominant-man-thing",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.sensible-stardust.sincere-serpentor"
+		"paths": "pleased-tombstone.lasting-horridus.correct-spoiler.dominant-man-thing"
 	},
 	{
-		"name": "still-blok",
+		"name": "harmless-flint",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.sensible-stardust.sincere-serpentor.still-blok"
+		"paths": "pleased-tombstone.lasting-horridus.correct-spoiler.dominant-man-thing.harmless-flint"
 	},
 	{
-		"name": "eminent-kitty",
+		"name": "glowing-sailor",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.sensible-stardust.eminent-kitty"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor"
 	},
 	{
-		"name": "endless-mirage",
+		"name": "prompt-speedball",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.sensible-stardust.eminent-kitty.endless-mirage"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.prompt-speedball"
 	},
 	{
-		"name": "civil-cyblade",
+		"name": "supreme-mantis",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.sensible-stardust.civil-cyblade"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.prompt-speedball.supreme-mantis"
 	},
 	{
-		"name": "tidy-blue-blade",
+		"name": "bursting-blok",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.sensible-stardust.civil-cyblade.tidy-blue-blade"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.prompt-speedball.bursting-blok"
 	},
 	{
-		"name": "advanced-tombstone",
+		"name": "maximum-empath",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.sensible-stardust.civil-cyblade.advanced-tombstone"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.prompt-speedball.maximum-empath"
 	},
 	{
-		"name": "daring-karatecha",
+		"name": "sharing-green-arrow",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.sensible-stardust.civil-cyblade.daring-karatecha"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.prompt-speedball.sharing-green-arrow"
 	},
 	{
-		"name": "grown-stargirl",
+		"name": "workable-silver",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.pure-blastaar.sensible-stardust.civil-cyblade.grown-stargirl"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.workable-silver"
 	},
 	{
-		"name": "sacred-moonstar",
+		"name": "splendid-revanche",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.workable-silver.splendid-revanche"
 	},
 	{
-		"name": "loved-retro-girl",
+		"name": "social-speedy",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.loved-retro-girl"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.workable-silver.social-speedy"
 	},
 	{
-		"name": "safe-infragirl",
+		"name": "pro-vulcan",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.loved-retro-girl.safe-infragirl"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.workable-silver.pro-vulcan"
 	},
 	{
-		"name": "sweeping-hulkling",
+		"name": "dynamic-spellbinder",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.loved-retro-girl.safe-infragirl.sweeping-hulkling"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.dynamic-spellbinder"
 	},
 	{
-		"name": "elegant-silver-sable",
+		"name": "gentle-calendar",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.loved-retro-girl.safe-infragirl.elegant-silver-sable"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.dynamic-spellbinder.gentle-calendar"
 	},
 	{
-		"name": "settling-blink",
+		"name": "clear-chase",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.loved-retro-girl.safe-infragirl.settling-blink"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.dynamic-spellbinder.clear-chase"
 	},
 	{
-		"name": "worthy-cybergirl",
+		"name": "modest-copperhead",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.loved-retro-girl.worthy-cybergirl"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.modest-copperhead"
 	},
 	{
-		"name": "gentle-killmonger",
+		"name": "advanced-zombie",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.loved-retro-girl.worthy-cybergirl.gentle-killmonger"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.modest-copperhead.advanced-zombie"
 	},
 	{
-		"name": "helped-ultrawoman",
+		"name": "evolving-talos",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.loved-retro-girl.worthy-cybergirl.helped-ultrawoman"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.modest-copperhead.evolving-talos"
 	},
 	{
-		"name": "composed-wallflower",
+		"name": "intimate-cobalt-man",
 		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.composed-wallflower"
+		"paths": "pleased-tombstone.lasting-horridus.glowing-sailor.modest-copperhead.intimate-cobalt-man"
 	},
 	{
-		"name": "mutual-jigsaw",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.composed-wallflower.mutual-jigsaw"
+		"name": "right-violet",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet"
 	},
 	{
-		"name": "measured-morbius",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.composed-wallflower.mutual-jigsaw.measured-morbius"
+		"name": "just-elasti-girl",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.just-elasti-girl"
 	},
 	{
-		"name": "peaceful-metal-master",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.composed-wallflower.mutual-jigsaw.peaceful-metal-master"
+		"name": "rapid-flash",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.just-elasti-girl.rapid-flash"
 	},
 	{
-		"name": "moving-bizarro",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.composed-wallflower.moving-bizarro"
+		"name": "shining-fury",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.just-elasti-girl.rapid-flash.shining-fury"
 	},
 	{
-		"name": "mature-coagula",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.composed-wallflower.moving-bizarro.mature-coagula"
+		"name": "neutral-aztec",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.just-elasti-girl.rapid-flash.shining-fury.neutral-aztec"
 	},
 	{
-		"name": "positive-sentry",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.composed-wallflower.moving-bizarro.positive-sentry"
+		"name": "sharp-guardsmen",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.just-elasti-girl.rapid-flash.shining-fury.sharp-guardsmen"
 	},
 	{
-		"name": "tight-titaness",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.composed-wallflower.tight-titaness"
+		"name": "renewing-taskmaster",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.just-elasti-girl.rapid-flash.shining-fury.renewing-taskmaster"
 	},
 	{
-		"name": "novel-lettuce",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.composed-wallflower.tight-titaness.novel-lettuce"
+		"name": "artistic-the-wasp",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp"
 	},
 	{
-		"name": "sharp-glitter",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.composed-wallflower.tight-titaness.sharp-glitter"
+		"name": "desired-war-machine",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.desired-war-machine"
 	},
 	{
-		"name": "unique-cherry",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.composed-wallflower.unique-cherry"
+		"name": "subtle-ancient-one",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.desired-war-machine.subtle-ancient-one"
 	},
 	{
-		"name": "calm-penguin",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.composed-wallflower.unique-cherry.calm-penguin"
+		"name": "sunny-captain-midlands",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.desired-war-machine.subtle-ancient-one.sunny-captain-midlands"
 	},
 	{
-		"name": "nearby-maestro",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro"
+		"name": "stunning-iceman",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.desired-war-machine.subtle-ancient-one.stunning-iceman"
 	},
 	{
-		"name": "picked-glory",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro.picked-glory"
+		"name": "crucial-armory",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.crucial-armory"
 	},
 	{
-		"name": "gorgeous-wasp",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro.picked-glory.gorgeous-wasp"
+		"name": "amazing-fantomah",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.crucial-armory.amazing-fantomah"
 	},
 	{
-		"name": "first-dragon-man",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro.picked-glory.first-dragon-man"
+		"name": "alert-longshot",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.crucial-armory.amazing-fantomah.alert-longshot"
 	},
 	{
-		"name": "mature-slipstream",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro.picked-glory.mature-slipstream"
+		"name": "present-cybergirl",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.crucial-armory.amazing-fantomah.present-cybergirl"
 	},
 	{
-		"name": "star-stormtrooper",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro.picked-glory.star-stormtrooper"
+		"name": "tight-mandroid",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.crucial-armory.amazing-fantomah.tight-mandroid"
 	},
 	{
-		"name": "dashing-forearm",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro.dashing-forearm"
+		"name": "quiet-wraith",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.crucial-armory.quiet-wraith"
 	},
 	{
-		"name": "clear-supergran",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro.dashing-forearm.clear-supergran"
+		"name": "magical-fantomex",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.crucial-armory.quiet-wraith.magical-fantomex"
 	},
 	{
-		"name": "related-kitty",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro.dashing-forearm.related-kitty"
+		"name": "pro-morbius",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.crucial-armory.quiet-wraith.pro-morbius"
 	},
 	{
-		"name": "organic-hulk",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro.dashing-forearm.organic-hulk"
+		"name": "exciting-nightveil",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.exciting-nightveil"
 	},
 	{
-		"name": "healthy-deathstrike",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro.healthy-deathstrike"
+		"name": "improved-goliath",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.exciting-nightveil.improved-goliath"
 	},
 	{
-		"name": "better-rapture",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro.healthy-deathstrike.better-rapture"
+		"name": "engaged-paper-doll",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.exciting-nightveil.improved-goliath.engaged-paper-doll"
 	},
 	{
-		"name": "enabled-professor-monster",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro.enabled-professor-monster"
+		"name": "pretty-tattoo",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.exciting-nightveil.improved-goliath.pretty-tattoo"
 	},
 	{
-		"name": "glowing-elongated",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro.enabled-professor-monster.glowing-elongated"
+		"name": "guiding-sunset-bain",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.exciting-nightveil.improved-goliath.guiding-sunset-bain"
 	},
 	{
-		"name": "equipped-hypno-hustler",
-		"org_id": "c1556e17-b7c0-45a3-a6ae-9546248fb17a",
-		"paths": "stunning-horridus.sacred-moonstar.nearby-maestro.enabled-professor-monster.equipped-hypno-hustler"
+		"name": "noble-ghost-rider",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.artistic-the-wasp.exciting-nightveil.improved-goliath.noble-ghost-rider"
 	},
 	{
-		"name": "steady-insect",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect"
+		"name": "precise-colossus",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus"
 	},
 	{
-		"name": "helped-blackheart",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart"
+		"name": "robust-lizard",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard"
 	},
 	{
-		"name": "many-silver-sable",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.many-silver-sable"
+		"name": "lenient-madripoor",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.lenient-madripoor"
 	},
 	{
-		"name": "stable-karatecha",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.many-silver-sable.stable-karatecha"
+		"name": "eternal-gwen",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.lenient-madripoor.eternal-gwen"
 	},
 	{
-		"name": "exciting-magma",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.many-silver-sable.stable-karatecha.exciting-magma"
+		"name": "sharing-nova",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.sharing-nova"
 	},
 	{
-		"name": "upward-the-anarchist",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.many-silver-sable.upward-the-anarchist"
+		"name": "primary-argent",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.sharing-nova.primary-argent"
 	},
 	{
-		"name": "patient-prodigy",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.many-silver-sable.upward-the-anarchist.patient-prodigy"
+		"name": "steady-katana",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.sharing-nova.steady-katana"
 	},
 	{
-		"name": "obliging-microchip",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.many-silver-sable.upward-the-anarchist.obliging-microchip"
+		"name": "star-risque",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.sharing-nova.star-risque"
 	},
 	{
-		"name": "massive-ser-duncan",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.many-silver-sable.upward-the-anarchist.massive-ser-duncan"
+		"name": "key-dolphin",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.sharing-nova.key-dolphin"
 	},
 	{
-		"name": "sacred-mystique",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.many-silver-sable.upward-the-anarchist.sacred-mystique"
+		"name": "content-mimic",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.content-mimic"
 	},
 	{
-		"name": "ideal-miss-america",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.ideal-miss-america"
+		"name": "musical-captain-midlands",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.content-mimic.musical-captain-midlands"
 	},
 	{
-		"name": "premium-man-wolf",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.ideal-miss-america.premium-man-wolf"
+		"name": "large-abomination",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.content-mimic.large-abomination"
 	},
 	{
-		"name": "shining-american-eagle",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.ideal-miss-america.premium-man-wolf.shining-american-eagle"
+		"name": "mint-killer-shrike",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.content-mimic.mint-killer-shrike"
 	},
 	{
-		"name": "concrete-golden-guardian",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.ideal-miss-america.concrete-golden-guardian"
+		"name": "curious-velocity",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.curious-velocity"
 	},
 	{
-		"name": "adapted-captain-britain",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.ideal-miss-america.concrete-golden-guardian.adapted-captain-britain"
+		"name": "assured-marionette",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.curious-velocity.assured-marionette"
 	},
 	{
-		"name": "proper-dolphin",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.ideal-miss-america.concrete-golden-guardian.proper-dolphin"
+		"name": "cute-goliath",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.curious-velocity.cute-goliath"
 	},
 	{
-		"name": "ruling-outlaw-kid",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.ideal-miss-america.concrete-golden-guardian.ruling-outlaw-kid"
+		"name": "direct-defenders",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.curious-velocity.direct-defenders"
 	},
 	{
-		"name": "casual-spectrum",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.ideal-miss-america.concrete-golden-guardian.casual-spectrum"
+		"name": "simple-starwoman",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.robust-lizard.curious-velocity.simple-starwoman"
 	},
 	{
-		"name": "native-deadpool",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.ideal-miss-america.native-deadpool"
+		"name": "fast-microbe",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.fast-microbe"
 	},
 	{
-		"name": "merry-fantomex",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.ideal-miss-america.native-deadpool.merry-fantomex"
+		"name": "assuring-the-wasp",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.fast-microbe.assuring-the-wasp"
 	},
 	{
-		"name": "loyal-monstress",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.ideal-miss-america.loyal-monstress"
+		"name": "fleet-black-bird",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.fast-microbe.assuring-the-wasp.fleet-black-bird"
 	},
 	{
-		"name": "discrete-shocker",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.ideal-miss-america.loyal-monstress.discrete-shocker"
+		"name": "subtle-wiccan",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.fast-microbe.assuring-the-wasp.subtle-wiccan"
 	},
 	{
-		"name": "curious-green-lantern",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.helped-blackheart.ideal-miss-america.loyal-monstress.curious-green-lantern"
+		"name": "daring-hellboy",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.fast-microbe.daring-hellboy"
 	},
 	{
-		"name": "endless-red-hulk",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk"
+		"name": "awaited-caliban",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.fast-microbe.daring-hellboy.awaited-caliban"
 	},
 	{
-		"name": "complete-aquagirl",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.complete-aquagirl"
+		"name": "learning-panty-man",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man"
 	},
 	{
-		"name": "holy-raphael",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.complete-aquagirl.holy-raphael"
+		"name": "darling-titania",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.darling-titania"
 	},
 	{
-		"name": "adapted-warbird",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.complete-aquagirl.holy-raphael.adapted-warbird"
+		"name": "sought-mighty",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.darling-titania.sought-mighty"
 	},
 	{
-		"name": "allowing-dust",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.complete-aquagirl.holy-raphael.allowing-dust"
+		"name": "driving-starfire",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.darling-titania.driving-starfire"
 	},
 	{
-		"name": "adjusted-titania",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.complete-aquagirl.holy-raphael.adjusted-titania"
+		"name": "integral-echo",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.darling-titania.integral-echo"
 	},
 	{
-		"name": "champion-thunder",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.complete-aquagirl.champion-thunder"
+		"name": "possible-clover",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.darling-titania.possible-clover"
 	},
 	{
-		"name": "precious-arrowette",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.complete-aquagirl.champion-thunder.precious-arrowette"
+		"name": "crucial-hawkman",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.crucial-hawkman"
 	},
 	{
-		"name": "prompt-dynamite",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.complete-aquagirl.champion-thunder.prompt-dynamite"
+		"name": "willing-giant-girl",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.crucial-hawkman.willing-giant-girl"
 	},
 	{
-		"name": "suited-king-cobra",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.complete-aquagirl.champion-thunder.suited-king-cobra"
+		"name": "glad-bloodstorm",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.crucial-hawkman.glad-bloodstorm"
 	},
 	{
-		"name": "super-hiroim",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.super-hiroim"
+		"name": "brief-vapor",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.crucial-hawkman.brief-vapor"
 	},
 	{
-		"name": "divine-doctor",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.super-hiroim.divine-doctor"
+		"name": "living-iron-lad",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.crucial-hawkman.living-iron-lad"
 	},
 	{
-		"name": "square-tombstone",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.super-hiroim.divine-doctor.square-tombstone"
+		"name": "stirred-flamebird",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.stirred-flamebird"
 	},
 	{
-		"name": "sincere-the-hunter",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.super-hiroim.divine-doctor.sincere-the-hunter"
+		"name": "well-mystique",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.stirred-flamebird.well-mystique"
 	},
 	{
-		"name": "cuddly-lady-bullseye",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.super-hiroim.divine-doctor.cuddly-lady-bullseye"
+		"name": "suitable-old-lace",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.stirred-flamebird.suitable-old-lace"
 	},
 	{
-		"name": "novel-guardian",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.super-hiroim.divine-doctor.novel-guardian"
+		"name": "firm-donatello",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.stirred-flamebird.firm-donatello"
 	},
 	{
-		"name": "profound-hiroim",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.super-hiroim.profound-hiroim"
+		"name": "certain-leatherneck",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.stirred-flamebird.certain-leatherneck"
 	},
 	{
-		"name": "nice-smiling-tiger",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.super-hiroim.profound-hiroim.nice-smiling-tiger"
+		"name": "dear-burnout",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.dear-burnout"
 	},
 	{
-		"name": "advanced-free",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.super-hiroim.profound-hiroim.advanced-free"
+		"name": "maximum-witchblade",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.dear-burnout.maximum-witchblade"
 	},
 	{
-		"name": "stirred-gunslinger",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.super-hiroim.stirred-gunslinger"
+		"name": "pretty-callisto",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.precise-colossus.learning-panty-man.dear-burnout.pretty-callisto"
 	},
 	{
-		"name": "prepared-comedian",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.super-hiroim.stirred-gunslinger.prepared-comedian"
+		"name": "useful-siege",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.useful-siege"
 	},
 	{
-		"name": "grown-wolverine",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.super-hiroim.stirred-gunslinger.grown-wolverine"
+		"name": "tops-leatherneck",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.useful-siege.tops-leatherneck"
 	},
 	{
-		"name": "composed-atlas",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.super-hiroim.stirred-gunslinger.composed-atlas"
+		"name": "holy-cat",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.useful-siege.tops-leatherneck.holy-cat"
 	},
 	{
-		"name": "premium-shriek",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.premium-shriek"
+		"name": "adapted-iron-monger",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.useful-siege.tops-leatherneck.holy-cat.adapted-iron-monger"
 	},
 	{
-		"name": "enabled-scarlet-spider",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.premium-shriek.enabled-scarlet-spider"
+		"name": "full-colt",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.useful-siege.tops-leatherneck.full-colt"
 	},
 	{
-		"name": "giving-wolfpack",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.premium-shriek.enabled-scarlet-spider.giving-wolfpack"
+		"name": "romantic-longshot",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.useful-siege.tops-leatherneck.full-colt.romantic-longshot"
 	},
 	{
-		"name": "adequate-master-chief",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.premium-shriek.enabled-scarlet-spider.adequate-master-chief"
+		"name": "smiling-hawkman",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.useful-siege.tops-leatherneck.full-colt.smiling-hawkman"
 	},
 	{
-		"name": "true-beetle",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.premium-shriek.enabled-scarlet-spider.true-beetle"
+		"name": "sharing-manta",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.useful-siege.tops-leatherneck.sharing-manta"
 	},
 	{
-		"name": "central-red-ghost",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.endless-red-hulk.premium-shriek.enabled-scarlet-spider.central-red-ghost"
+		"name": "actual-network",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.useful-siege.tops-leatherneck.sharing-manta.actual-network"
 	},
 	{
-		"name": "national-screwball",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.national-screwball"
+		"name": "creative-spider-ham",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.useful-siege.tops-leatherneck.creative-spider-ham"
 	},
 	{
-		"name": "sacred-lady-shiva",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.national-screwball.sacred-lady-shiva"
+		"name": "obliging-chronomancer",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.useful-siege.tops-leatherneck.creative-spider-ham.obliging-chronomancer"
 	},
 	{
-		"name": "quick-cyber",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.national-screwball.sacred-lady-shiva.quick-cyber"
+		"name": "singular-hardball",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.useful-siege.tops-leatherneck.creative-spider-ham.singular-hardball"
 	},
 	{
-		"name": "alive-tsunami",
-		"org_id": "9b4cdb0a-cfea-4f9d-8a68-24f038fae385",
-		"paths": "steady-insect.national-screwball.sacred-lady-shiva.quick-cyber.alive-tsunami"
+		"name": "absolute-arcade",
+		"org_id": "de5349c1-78aa-4052-b7a5-c3f600bafbf6",
+		"paths": "right-violet.useful-siege.tops-leatherneck.creative-spider-ham.absolute-arcade"
 	}
 ]

@@ -1,16 +1,19 @@
 package folder
 
 import (
-	"errors"
 	"strings"
 )
 
+// Custom errors
+type InvalidMoveErr struct {
+	Err string
+}
+
+func (invalidMoveErr InvalidMoveErr) Error() string {
+	return invalidMoveErr.Err
+}
+
 func (f *driver) MoveFolder(name string, dst string) ([]Folder, error) {
-	
-	// Error handling - cannot move into itself
-	if name == dst {
-		return nil, errors.New("Cannot move a folder to itself")
-	}
 	
 	folders := f.folders
 	var srcFolder *Folder
@@ -28,19 +31,23 @@ func (f *driver) MoveFolder(name string, dst string) ([]Folder, error) {
 
 	// Error handling
 	if srcFolder == nil {
-		return nil, errors.New("Source folder does not exist")
+		return nil, NoFolderError{"Error: Source folder does not exist"}
 	}
 
 	if dstFolder == nil {
-		return nil, errors.New("Destination folder does not exist")
+		return nil, NoFolderError{"Error: Destination folder does not exist"}
+	}
+
+	if name == dst {
+		return nil, InvalidMoveErr{"Error: Cannot move a folder to itself"}
 	}
 
 	if strings.HasPrefix(dstFolder.Paths, srcFolder.Paths) {
-		return nil, errors.New("Cannot move a folder to a child of itself")
+		return nil, InvalidMoveErr{"Error: Cannot move a folder to a child of itself"}
 	}
 
 	if srcFolder.OrgId != dstFolder.OrgId {
-		return nil, errors.New("Cannot move a folder to a different organization")
+		return nil, InvalidMoveErr{"Error: Cannot move a folder to a different organization"}
 	}
 
 	oldPath := srcFolder.Paths
