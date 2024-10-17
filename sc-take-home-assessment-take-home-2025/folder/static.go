@@ -35,6 +35,12 @@ type Folder struct {
 	Paths string    `json:"paths"`
 }
 
+type TestAns struct {
+	SetID string 		`json:"set_id"`
+	OrgID uuid.UUID 	`json:"org_id"`
+	FolderList []Folder	`json:"folders"`
+}
+
 func GenerateData() []Folder {
 	rng, _ := codename.DefaultRNG()
 	tree := []Folder{}
@@ -123,6 +129,34 @@ func GetSampleData() []Folder {
 	}
 
 	folders := []Folder{}
+	err = json.Unmarshal(jsonByte, &folders)
+	if err != nil {
+		panic(err)
+	}
+
+	return folders
+}
+
+func getTestAns() []TestAns {
+	_, filename, _, _ := runtime.Caller(0)
+	fmt.Println(filename)
+	basePath := filepath.Dir(filename)
+	filePath := filepath.Join(basePath, "orgFolderSet.json")
+
+	fmt.Println(filePath)
+
+	file, err := os.Open(filePath)
+	if err != nil {
+		panic(err)
+	}
+	defer file.Close()
+
+	jsonByte, err := io.ReadAll(file)
+	if err != nil {
+		panic(err)
+	}
+
+	folders := []TestAns{}
 	err = json.Unmarshal(jsonByte, &folders)
 	if err != nil {
 		panic(err)
