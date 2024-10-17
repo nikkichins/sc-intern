@@ -12,17 +12,16 @@ import (
 // feel free to change how the unit test is structured
 func Test_folder_GetFoldersByOrgID(t *testing.T) {
 	t.Parallel()
-	ans := folder.GetTest()
+	testUUID := uuid.FromStringOrNil("335b32d4-5d58-4923-9f8d-f9c4f63040b9")
+	testUUID_2 := uuid.FromStringOrNil("de5349c1-78aa-4052-b7a5-c3f600bafbf6")
 	tests := [...]struct {
 		name    string
 		orgID   uuid.UUID
 		folders []folder.Folder
 		want    []folder.Folder
 	}{
-		// TODO: your tests here
-		// default orgid
-		{"Test_default_orgID", ans[0].OrgID, folder.GetAllFolders(), ans[0].FolderList},
-		{"Test_de5349c1_orgID", ans[5].OrgID, folder.GetAllFolders(), ans[5].FolderList},
+		{"Test_default_orgID", testUUID, folder.GetAllFolders(), folder.GetSampleData("get_orgid_set0.json")},
+		{"Test_de5349c1_orgID", testUUID_2, folder.GetAllFolders(), folder.GetSampleData("get_orgid_set1.json")},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
@@ -36,18 +35,18 @@ func Test_folder_GetFoldersByOrgID(t *testing.T) {
 }
 
 func Test_folder_GetChildFolders(t *testing.T) {
-	ans := folder.GetTest()
+	testUUID := uuid.FromStringOrNil("335b32d4-5d58-4923-9f8d-f9c4f63040b9")
+	testUUID_2 := uuid.FromStringOrNil("c1556e17-b7c0-45a3-a6ae-9546248fb17a")
 	var tests = []struct {
 		name		string
 		orgID 		uuid.UUID
 		folderName 	string
 		want 		[]folder.Folder
 	}{
-		// TODO
-		{"No_children", ans[3].OrgID, "liberal-legion", ans[3].FolderList},
-		{"One_child", ans[4].OrgID, "still-inertia", ans[4].FolderList},
-		{"Multiple_leaf_children", ans[1].OrgID, "warm-skyrocket", ans[1].FolderList},
-		{"Multiple_subchildren", ans[2].OrgID, "flowing-shaman", ans[2].FolderList},
+		{"No_children", testUUID, "liberal-legion", []folder.Folder{}},
+		{"One_child", testUUID, "still-inertia", folder.GetSampleData("get_child_set0.json")},
+		{"Multiple_leaf_children", testUUID, "warm-skyrocket", folder.GetSampleData("get_child_set1.json")},
+		{"Multiple_subchildren", testUUID_2, "flowing-shaman", folder.GetSampleData("get_child_set2.json")},
 	}
 	for _, tt := range tests {
 		f := folder.GetAllFolders()
@@ -72,7 +71,6 @@ func Test_folder_GetChildFolders_Errors(t *testing.T) {
 		folderName 	string
 		want 		error
 	}{
-		// TODO
 		{"Invalid_Org", uuid.FromStringOrNil("non-existent"), "liberal-legion", folder.InvalidOrgError{Err: "Error: Organization does not exist"}},
 		{"Folder_does_not_exist", testUUID, "non-existent", folder.NoFolderError{Err: "Error: Folder does not exist"}},
 		{"Folder_not_in_org", testUUID, "topical-maginty", folder.NotInOrgError{Err: "Error: Folder does not exist in the specified organization"}},

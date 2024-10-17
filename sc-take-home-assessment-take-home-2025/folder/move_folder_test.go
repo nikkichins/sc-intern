@@ -10,7 +10,8 @@ import (
 )
 
 func Test_folder_MoveFolder(t *testing.T) {
-	// TODO: your tests here
+	testUUID := uuid.FromStringOrNil("335b32d4-5d58-4923-9f8d-f9c4f63040b9")
+	testUUID_2 := uuid.FromStringOrNil("c1556e17-b7c0-45a3-a6ae-9546248fb17a")
 	tests := [...]struct {
 		name string
 		orgID uuid.UUID
@@ -18,12 +19,10 @@ func Test_folder_MoveFolder(t *testing.T) {
 		dst string
 		want []folder.Folder
 	}{
-		// TODO: tests
-		// moving 1 level up
-		// moving 1 level down
-		// moving the second node
-		// moving to second node
-		// moving to leaf node
+		{"Move_up_one_lvl", testUUID, "still-inertia", "select-smiling-tiger", folder.GetSampleData("move_folder_set0.json")},
+		{"Move_down_one_lvl", testUUID, "accepted-kitty", "still-inertia", folder.GetSampleData("move_folder_set1.json")},
+		{"Moving_up_to_second_lvl", testUUID_2, "topical-maginty", "massive-deathbird", folder.GetSampleData("move_folder_set2.json")},
+		{"Moving_to_leaf", testUUID_2, "pleased-tombstone", "unique-wonder-man", folder.GetSampleData("move_folder_set3.json")},
 	}
 	for _, tt := range tests {
 		f := folder.GetAllFolders()
@@ -41,7 +40,8 @@ func Test_folder_MoveFolder(t *testing.T) {
 }
 
 func Test_folder_MoveFolder_Errors(t *testing.T) {
-	// TODO: your tests here
+	testUUID := uuid.FromStringOrNil("335b32d4-5d58-4923-9f8d-f9c4f63040b9")
+	testUUID_2 := uuid.FromStringOrNil("c1556e17-b7c0-45a3-a6ae-9546248fb17a")
 	tests := [...]struct {
 		name string
 		orgID uuid.UUID
@@ -50,11 +50,12 @@ func Test_folder_MoveFolder_Errors(t *testing.T) {
 		want error
 	}{
 		// TODO: tests
-		// test for cannot move to itself if theyre both invalid but w same name
-		// movign it itself
-		// src does not exist
-		// dest does not exist
-		// same org moving to child (child error)
+		{"Moving_to_itself_invalid", testUUID, "invalid", "invalid", folder.NoFolderError{Err: "Error: Source folder does not exist"}},
+		{"Moving_to_itself", testUUID, "still-inertia", "still-inertia", folder.InvalidMoveErr{Err: "Error: Cannot move a folder to itself"}},
+		{"Src_not_exist", testUUID, "invalid", "still-inertia", folder.NoFolderError{Err: "Error: Source folder does not exist"}},
+		{"Dst_not_exist", testUUID, "still-inertia", "invalid", folder.NoFolderError{Err: "Error: Destination folder does not exist"}},
+		{"Moving_to_child", testUUID, "select-smiling-tiger", "accepted-kitty", folder.InvalidMoveErr{Err: "Error: Cannot move a folder to a child of itself"}},
+		{"Moving_diff_org", testUUID_2, "pleased-tombstone", "select-smiling-tiger", folder.InvalidMoveErr{Err: "Error: Cannot move a folder to a different organization"}},
 	}
 	for _, tt := range tests {
 		f := folder.GetAllFolders()

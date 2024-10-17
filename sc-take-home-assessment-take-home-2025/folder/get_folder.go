@@ -33,11 +33,7 @@ func (noFolderErr NoFolderError) Error() string {
 
 // Helper data retrieval methods
 func GetAllFolders() []Folder {
-	return GetSampleData()
-}
-
-func GetTest() []TestAns {
-	return getTestAns()
+	return GetSampleData("sample.json")
 }
 
 // Implemented methods
