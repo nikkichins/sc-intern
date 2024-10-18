@@ -31,7 +31,6 @@ func (noFolderErr NoFolderError) Error() string {
 	return noFolderErr.Err
 }
 
-// Helper data retrieval methods
 func GetAllFolders() []Folder {
 	return GetSampleData("sample.json")
 }
@@ -54,7 +53,7 @@ func (f *driver) GetFoldersByOrgID(orgID uuid.UUID) []Folder {
 func (f *driver) GetAllChildFolders(orgID uuid.UUID, name string) ([]Folder, error) {
 	folders := f.folders
 
-	// get path of data item with orgID and name
+	// Get path of data item with orgID and name
 	var branchPath string;
 	orgFolders := []Folder{}
 
@@ -67,7 +66,6 @@ func (f *driver) GetAllChildFolders(orgID uuid.UUID, name string) ([]Folder, err
 	// Error handling - invalid orgID
 	if len(orgFolders) == 0 {
 		return nil, InvalidOrgError{Err: "Error: Organization does not exist"}
-		// return nil, errors.New("Error: Organization does not exist")
 	}
 
 	// Find path of parent folder

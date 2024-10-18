@@ -14,7 +14,6 @@ func (invalidMoveErr InvalidMoveErr) Error() string {
 }
 
 func (f *driver) MoveFolder(name string, dst string) ([]Folder, error) {
-	
 	folders := f.folders
 	var srcFolder *Folder
 	var dstFolder *Folder
